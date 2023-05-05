@@ -4,8 +4,8 @@ This file contains:
 
 - Image_Classifier_Transl.HTML
 
-3 Logo images (225px, 32px, 16px)
-	One is for the logo in website
-	The 16px logo is for the little logo in web's menu
+- 3 Logo images (225px, 32px, 16px)
+	1. One is for the logo in website
+	2. The 16px logo is for the little logo in web's menu
 
 - model.json (also come with the exportation of the TensorFlow model)
